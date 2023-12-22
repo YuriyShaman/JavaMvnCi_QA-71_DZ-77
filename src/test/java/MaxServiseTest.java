@@ -10,7 +10,7 @@ public class MaxServiseTest {
         int a = 5;
         int b = 3;
 
-        int expected = 8; //a;
+        int expected = a;
         int actual = servise.max(a, b);
 
         Assertions.assertEquals(expected, actual);
