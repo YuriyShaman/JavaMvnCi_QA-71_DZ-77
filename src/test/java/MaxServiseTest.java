@@ -2,13 +2,13 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class MaxServiseTest {
-// 34543543543543543543
+
 
     @Test
     public void shouldFindMaxA() {
         MaxServise servise = new MaxServise();
         int a = 5;
-        int b = 3;
+        int b = 6; //3;
 
         int expected = a;
         int actual = servise.max(a, b);
