@@ -8,9 +8,9 @@ public class MaxServiseTest {
     public void shouldFindMaxA() {
         MaxServise servise = new MaxServise();
         int a = 5;
-        int b = 6; //3;
+        int b = 3;
 
-        int expected = a;
+        int expected = 8; //a;
         int actual = servise.max(a, b);
 
         Assertions.assertEquals(expected, actual);
