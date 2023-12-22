@@ -5,8 +5,6 @@ public class MaxServise {
             return a;
         } else {
             return b;
-        } // Test
-
+        }
     }
-
 }
