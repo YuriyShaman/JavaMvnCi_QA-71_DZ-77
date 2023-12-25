@@ -1,9 +1,9 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MaxServiseTest {
+public class MaxServiseTest { к
 
-    
+
     @Test
     public void shouldFindMaxA() {
         MaxServise servise = new MaxServise();
