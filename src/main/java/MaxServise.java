@@ -1,6 +1,6 @@
 public class MaxServise {
 
-    public int max(int a, int b) { y
+    public int max(int a, int b) {
         if (a > b) {
             return a;
         } else {
