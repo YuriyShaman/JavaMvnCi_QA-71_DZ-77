@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MaxServiseTest { к
+public class MaxServiseTest {
 
 
     @Test
