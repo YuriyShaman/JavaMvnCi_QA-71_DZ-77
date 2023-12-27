@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 public class MaxServiseTest {
 
 
-    @Test !
+    @Test
     public void shouldFindMaxA() {
         MaxServise servise = new MaxServise();
         int a = 5;
