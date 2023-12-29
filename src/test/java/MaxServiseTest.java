@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MaxServiseTest {  Check test
+public class MaxServiseTest {  //Check test
 
 
     @Test
